@@ -1,0 +1,23 @@
+.elementor-16 .elementor-element.elementor-element-4a7ef902:not(.elementor-motion-effects-element-type-background), .elementor-16 .elementor-element.elementor-element-4a7ef902 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#0A192F;}.elementor-16 .elementor-element.elementor-element-4a7ef902{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 170px;}.elementor-16 .elementor-element.elementor-element-4a7ef902 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-16 .elementor-element.elementor-element-4d75c7b8{color:#64FFDA;font-family:"sf mono", Sans-serif;font-size:16px;font-weight:400;}.elementor-16 .elementor-element.elementor-element-1f36a55 .elementor-heading-title{color:#CCD6F6;font-family:"calibri", Sans-serif;font-size:80px;font-weight:bold;line-height:73px;}.elementor-16 .elementor-element.elementor-element-551e4a44 .elementor-heading-title{color:#8892B0;font-family:"calibri", Sans-serif;font-size:80px;font-weight:600;line-height:73px;}.elementor-16 .elementor-element.elementor-element-6e6fb46c{color:#8892B0;font-family:"calibri", Sans-serif;font-size:20px;font-weight:400;line-height:26px;}.elementor-16 .elementor-element.elementor-element-15eca98 .elementor-button .elementor-align-icon-right{margin-left:7px;}.elementor-16 .elementor-element.elementor-element-15eca98 .elementor-button .elementor-align-icon-left{margin-right:7px;}.elementor-16 .elementor-element.elementor-element-15eca98 .elementor-button{font-family:"sf mono", Sans-serif;font-size:15px;font-weight:400;fill:#64FFDA;color:#64FFDA;background-color:#61CE7000;border-style:solid;border-width:1px 1px 1px 1px;border-color:#58E3C4;border-radius:3px 3px 3px 3px;}.elementor-16 .elementor-element.elementor-element-15eca98 .elementor-button:hover, .elementor-16 .elementor-element.elementor-element-15eca98 .elementor-button:focus{background-color:#64FFDA54;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'sf mono';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://portfolio-v2.local/wp-content/uploads/2022/08/FontsFree-Net-SFMono-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'calibri';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://portfolio-v2.local/wp-content/uploads/2022/08/Calibre-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'calibri';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('http://portfolio-v2.local/wp-content/uploads/2022/08/Calibre-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

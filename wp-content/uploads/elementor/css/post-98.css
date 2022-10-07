@@ -1,0 +1,8 @@
+.elementor-98 .elementor-element.elementor-element-1d56c98 > .elementor-container{min-height:1000px;}.elementor-98 .elementor-element.elementor-element-1d56c98:not(.elementor-motion-effects-element-type-background), .elementor-98 .elementor-element.elementor-element-1d56c98 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#0A192F;}.elementor-98 .elementor-element.elementor-element-1d56c98{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-98 .elementor-element.elementor-element-1d56c98 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-98 .elementor-element.elementor-element-d198c30{text-align:center;color:#8892B0;font-family:"sf mono", Sans-serif;font-size:16px;font-weight:600;letter-spacing:1.2px;}.elementor-98 .elementor-element.elementor-element-d198c30 > .elementor-widget-container{--e-transform-rotateZ:90deg;}.elementor-98 .elementor-element.elementor-element-08be5d9{text-align:center;}.elementor-98 .elementor-element.elementor-element-08be5d9 > .elementor-widget-container{margin:59px 0px 0px 0px;}#elementor-popup-modal-98 .dialog-message{width:200px;height:1000px;align-items:flex-start;}#elementor-popup-modal-98{justify-content:flex-end;align-items:flex-end;}#elementor-popup-modal-98 .dialog-widget-content{animation-duration:1.2s;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'sf mono';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://portfolio-v2.local/wp-content/uploads/2022/08/FontsFree-Net-SFMono-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
